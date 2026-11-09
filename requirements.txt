@@ -1,0 +1,12 @@
+
+ultralytics
+tensorrt
+openvino
+onnx
+onnxruntime-gpu[cuda,cudnn]>=1.30
+nvidia-modelopt>=0.44
+onnxslim>=0.1.82
+onnx-graphsurgeon
+onnxscript
+lief
+polygraphy
